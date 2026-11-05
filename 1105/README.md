@@ -1,4 +1,4 @@
-# MASM 학번·이름 출력 프로그램
+# MASM 학번·이름을 출력하는 프로그램 만들기
 
 Visual Studio 2026에서 MASM(Microsoft Macro Assembler)으로 작성한 x86 어셈블리 프로그램입니다.
 실행하면 콘솔에 학번과 이름을 출력합니다.
