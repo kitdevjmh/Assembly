@@ -18,7 +18,7 @@ Visual Studio 2026에서 MASM(Microsoft Macro Assembler)으로 작성한 x86 어
 ## 파일 구성
 
 ```
-report/
+1105/
 ├── main.asm     # 어셈블리 소스 코드
 ├── result.png   # 실행 결과 화면
 └── README.md
